@@ -4,3 +4,6 @@ This repo is a collection of each of my leetcode solutions to problems from the 
 Each file contains
 * Problem Description
 * Code Solution
+
+Languages
+* Python 3
